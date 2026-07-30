@@ -1,9 +1,15 @@
 hiiii this is a wip
 
 
-<p align="center">
-<img src=IMG_0973.webp width="500" alt="App Demo">
+<p align=“center”>
+
+<
+
+<p align="right">
+<img src=Untitled764_20260730134801.png width="500" alt="App Demo">
 </p>
+
+
 
 
 hi anton
