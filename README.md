@@ -1,7 +1,6 @@
 hiiii this is a wip
 
-
-<p align="center">
-<img src=Untitled764_20260730134801.png width="700" alt="App Demo">
+<p align=“center”>
+<img src=Untitled767_20260804150821.png width=“700”
 </p>
-look at my doo doo graphic
+
