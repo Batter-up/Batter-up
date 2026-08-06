@@ -5,5 +5,6 @@ hiiii this is a wip
 </p>
 
 
-<p align=“right”>
-<img src
+<p align=“center”>
+<img src=Untitled764_20260806143137.png width=“200”
+ </p>
